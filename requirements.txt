@@ -1,0 +1,6 @@
+torch
+torchaudio
+numpy
+scikit-learn
+wfdb
+soundfile
